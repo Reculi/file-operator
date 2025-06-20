@@ -1,4 +1,4 @@
-# Description
+# file-operator mcp server
 a mcp server for file operation
 
 # Environment requirement
